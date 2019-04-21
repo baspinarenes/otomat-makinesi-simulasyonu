@@ -1,6 +1,6 @@
 # ilk-tiva-projem-Otomat-Makinesi
 
-   Yaptığım ilk kart projem. Projede Tiva TM4C123GXL kartını kullandım.
+   Yaptığım ilk kart projesi ve aynı zamanda Github'a attığım ilk proje. Projede Tiva TM4C123GXL kartını kullandım.
    
    Devredeki butonlar sırasıyla: 25 Kurus, 50 Kurus, 1 TL, Su, Cay, Kahve, Çikolata, Bisküvi, Bitiş, Reset.
    
