@@ -1,4 +1,4 @@
-# ilk-tiva-projem-Otomat-Makinesi
+# Otomat Makinesi Simülasyonu
 
    Yaptığım ilk kart projesi ve aynı zamanda Github'a attığım ilk proje. Projede Tiva TM4C123GXL kartını kullandım.
    
